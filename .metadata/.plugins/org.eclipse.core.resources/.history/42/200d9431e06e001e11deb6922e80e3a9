@@ -1,0 +1,15 @@
+package app;
+
+import static app.utils.*;
+
+import app.utils.CloseableIterator;
+
+import org.apache.spark.SparkConf;
+import org.apache.spark.api.java.JavaSparkContext;
+
+public class Main {
+
+	public static void main(String[] args) throws Exception {
+		System.out.println("penis");
+	}
+}
